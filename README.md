@@ -6,7 +6,8 @@ We've extensively documented this project, including the motivations, necessary
 background information, component and project specifications, and much more.
 You can read all of this documentation at
 
-[https://www.lukejianu.com/toy-rust-os/](https://www.lukejianu.com/toy-rust-os/)
+
+[https://lukejianu.github.io/toy-rust-os](https://lukejianu.github.io/toy-rust-os)
 
 
 ## Quick Start
